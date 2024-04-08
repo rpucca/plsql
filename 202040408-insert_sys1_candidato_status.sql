@@ -1,0 +1,7 @@
+insert into sys1_candidato_status (cst_id, cst_desc) values (1,'CV recebido')
+insert into sys1_candidato_status (cst_id, cst_desc) values (2,'em análise pelo recrutador')
+insert into sys1_candidato_status (cst_id, cst_desc) values (3,'em análise pelo Cliente')
+insert into sys1_candidato_status (cst_id, cst_desc) values (4,'entrevista agendada com recrutador')
+insert into sys1_candidato_status (cst_id, cst_desc) values (5,'entrevista agendada com Cliente')
+insert into sys1_candidato_status (cst_id, cst_desc) values (6,'aprovado')
+insert into sys1_candidato_status (cst_id, cst_desc) values (7,'reprovado')
